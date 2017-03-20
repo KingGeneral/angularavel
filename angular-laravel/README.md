@@ -32,7 +32,8 @@ You will see this app will load data from your api.
 and 
 
 to prevent porting get cancelled by used port : 
-references : http://stackoverflow.com/questions/39091735/port-4200-is-already-in-use-when-running-the-ng-serve-command/42896146#42896146
+
+- references : http://stackoverflow.com/questions/39091735/port-4200-is-already-in-use-when-running-the-ng-serve-command/42896146#42896146
 
 (example) 
 ```
