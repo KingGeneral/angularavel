@@ -1,16 +1,16 @@
 # angularavel
 angular 2 and laravel 5.3 testing
 
-angular 2 as frontend (angular-laravel)
-laravel 5.3 as backend (laravel-api)
+- angular 2 as frontend (angular-laravel)
+- laravel 5.3 as backend (laravel-api)
 
-this is a test version (lite) from laracast
+This is a test version (lite) from laracast
 
 Note :
 - see read me in every folder, thanks.
 
-tested in : php 5.6.23 with maria db 
+Tested in : 
+- php 5.6.23 with maria db 
 
 special thanks to :
-eliyas5044
-https://laracasts.com/discuss/channels/laravel/laravel-53-with-angular-2-1
+- eliyas5044 (https://laracasts.com/discuss/channels/laravel/laravel-53-with-angular-2-1)
