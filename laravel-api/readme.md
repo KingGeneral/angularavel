@@ -36,6 +36,8 @@ php artisan key:generate
 - Run this command to migrate your database 
 ```
 php artisan migrate
+
+or create it by yourself (id(int),author(varchar),description(varchar),created_at(timestamp),updated_at(timestamp))
 ```
 - Run this command to seed your database
 ```
